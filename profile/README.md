@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 
 **Here are some ideas to get you started:**
@@ -13,7 +11,7 @@
 
 🚀🔮🌐📊📱💡💻
 
-Devstroop Technologies is an innovative software company that builds cutting-edge solutions to shape the future. Our team of skilled professionals creates magic with code and data, empowering businesses and users worldwide with intuitive and powerful software. From web and mobile apps to data-driven insights, we've got it all covered! 🚀💪🌟🔥👩‍💻👨‍💻
+Devstroop Technologies builds cutting-edge solutions to shape the future. Our team of skilled professionals creates magic with code and data, empowering businesses and users worldwide with intuitive and powerful software. From web and mobile apps to data-driven insights, we've got it all covered! 🚀💪🌟🔥👩‍💻👨‍💻
 
 🔬🔍💼🌍👾
 
